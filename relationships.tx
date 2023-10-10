@@ -1,0 +1,8 @@
+Relationships:
+User table - one to many : because there is one user that can create many other tables.
+
+Recipe table - many to one : there can be many recpies for one user.
+
+Grocery_list table - one to one :only one recipe requires one list. 
+
+Occasions - many to many : there can be many recipes and grocery lists for many occasions.

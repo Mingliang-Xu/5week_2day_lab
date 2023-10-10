@@ -1,0 +1,25 @@
+Users table:
+user_id
+username
+email
+pasword
+
+Recipe table:
+id
+Grocery_id
+ingredients
+Instructions
+User_id
+Visibility
+
+Grocery list:
+Grocery_id
+Recipy_id
+user_id
+
+Occasions table:
+Recipies_id
+Occasions_id
+User_id
+occasion_name
+Date

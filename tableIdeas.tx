@@ -1,0 +1,13 @@
+
+
+users table:
+this table holds info about the users.
+
+recipe table:
+this table contains instructions and the ingredients for the recpies and the visibility to other users as a boolean value.
+
+grocery_list table:
+This table holds the ingredients that we need to get, and could be referenced by the recipe table for the ingredients.
+
+occasions table:
+This table can hold info about occasions and their attributes.
